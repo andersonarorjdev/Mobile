@@ -19,7 +19,7 @@ Também é possível salvar os professores que você selocionar como favoritos.
 
 <img src="./src/assets/images/prints/Proffyfavorites1.jpeg" height="600px">
 
-<img src="./src/assets/images/prints/Proffyfavorites2.jpeg" height="600px">
+<img src="./src/assets/images/prints/ProffyFavorites2.jpeg" height="600px">
 
 Para se cadastrar como um proffy.
 <img src="/src/assets/images/prints/Proffybe.jpeg" height="600px">
