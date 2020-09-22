@@ -3,7 +3,7 @@
 Versão em aplicativo do sistema web "Proffy" da maratona Next Level Week da RocketSeat.
 App desenvolvido em React-Native com  o Expo.
 
-<img src="./src/assets/images/prints/Proffyhome.jpeg" height="600px">
+                                              <img src="./src/assets/images/prints/Proffyhome.jpeg" height="600px">
 
 O app é tem o intuíto de ser um mercado online para a prestação de serviços para professores e alunos.
 
