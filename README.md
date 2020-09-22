@@ -25,4 +25,4 @@ Para se cadastrar como um proffy.
 
 <img src="/src/assets/images/prints/Proffybe.jpeg" height="600px">
 
-*Tecnologias Usadas: Expo, React-Native, Styled-Components, React-Navigation, Typescript.*
+**Tecnologias Usadas: Expo, React-Native, Styled-Components, React-Navigation, Typescript.**
