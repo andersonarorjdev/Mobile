@@ -36,7 +36,7 @@
 
 ## Downloading project⬇️
 ```sh
-  git clone https://github.com/andersonarorjdev/Proffy.git
+  git clone https://github.com/andersonarorjdev/Proffy-React-Native.git
 ```
 
 
@@ -45,11 +45,16 @@
 ```sh
 yarn install
 ```
+## Install Expo on your phone or emulator on AppStore or PlayStore.📲
 
+## Install Expo on your Computer
+```sh
+sudo apt install expo-cli
+```
 ## Starting the server to see the project👀
 
 ```sh
-yarn run 
+expo start 
 ``` 
 
 ## Author
